@@ -1,8 +1,8 @@
 name: "Shayne's blog"
 description: "小羊的个人技术博客"
 
-avatar: https://sink2learn.github.io/images/avatar.png
-favicon: https://sink2learn.github.io/images/favicon.ico
+avatar: https://shayne98.github.io/images/avatar.png
+favicon: https://shayne98.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Shayne
 
-url: https://sink2learn.github.io
+url: https://shayne98.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
