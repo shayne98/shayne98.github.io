@@ -6,6 +6,8 @@ tags: [Redis]
 comments: true
 author: Shayne
 ---
+# Redis核心概念
+
 
 # 源码结构
 
@@ -21,4 +23,4 @@ author: Shayne
 
 学习redis应该遵循从整体到局部的思路，所以应该重点关注服务端的流程代码以及事件库网络库的实现方式
 
-# Redis核心概念
+
