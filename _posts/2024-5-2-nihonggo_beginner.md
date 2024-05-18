@@ -119,7 +119,7 @@ author: Shayne
 
 * **は…です四象限**
 
-![1715911231469](image/2024-5-2-nihonggo_beginner/1715911231469.png)
+![谓语四象限](https://raw.githubusercontent.com/shayne98/Figure-Bed/main/blog/谓语四象限.png)
 
 * **日期的表示**
 
@@ -147,7 +147,7 @@ author: Shayne
 
 その　この　あの　どの　指物，后面需要接名词
 
-ここ　そこ　あそこ　どこ　指地点 
+ここ　そこ　あそこ　どこ　指地点
 
 こちら　そちら　あちら　どちら　上一行中的敬语形式
 
