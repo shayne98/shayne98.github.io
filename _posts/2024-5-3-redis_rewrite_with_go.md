@@ -10,7 +10,7 @@ author: Shayne
 
 ### 源码结构
 
-**-redis.c	**redis服务端核心流程代码
+-redis.c	redis服务端核心流程代码
 
 -redis-cli.c	客户端代码
 
