@@ -63,10 +63,16 @@ layout: default
         </ul>
       </div>
 
-      <div class="entry">
+      <!-- <div class="entry">
         {{ post.excerpt | truncate: 200 }}
+      </div> -->
+      <div class="entry">
+        {% if post.content contains '<table>' %}
+          {{ post.excerpt | truncate: 200 | markdownify }}
+        {% else %}
+          {{ post.excerpt | truncate: 200 }}
+        {% endif %}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endunless %}
