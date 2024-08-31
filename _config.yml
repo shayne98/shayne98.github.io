@@ -1,8 +1,8 @@
 name: "Shayne's blog"
 description: "小羊的个人技术博客"
 
-avatar: https://raw.githubusercontent.com/shayne98/Figure-Bed/main/blog/avatar.png
-favicon: https://raw.githubusercontent.com/shayne98/Figure-Bed/main/blog/avatar.png
+avatar: https://secret-land.oss-cn-hangzhou.aliyuncs.com/blog/avtar.png
+favicon: https://secret-land.oss-cn-hangzhou.aliyuncs.com/blog/avtar.png
 
 navigation:
   - name: 首页
