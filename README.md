@@ -1,3 +1,3 @@
-# sink2learn.github.io
+# shayne98.github.io
 
 My Personal Blog via GitHub
