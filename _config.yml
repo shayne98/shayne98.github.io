@@ -54,6 +54,7 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
+  - jekyll-toc
 
 # Exclude these files from your production _site
 exclude:
@@ -62,3 +63,12 @@ exclude:
   - LICENSE
   - README.md
 
+toc:
+  min_level: 2
+  max_level: 6
+  no_toc_section_class: 'no_toc_section'
+  list_class: 'toc'
+  item_class: 'toc-item'
+  toc_section_class: 'toc-section'
+  ordered_list: false
+  heading: "Table of Contents"
