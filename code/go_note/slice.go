@@ -4,6 +4,12 @@ import (
 	"unsafe"
 )
 func main() {
+	// sliceStruct()
+	sliceExpand()
+
+}
+// slice存储结构
+func sliceStruct(){
 	arr :=[10]int{1,2,3,4,5,6,7,8,9,10}
 	slice1:= arr[1:4]
 	slice2:= arr[7:]
@@ -27,5 +33,16 @@ func main() {
 	fmt.Printf("slice2 len: %v cap: %v elem %v arr %v\n",len(slice2),cap(slice2),slice2,arr)
 	// slice2 len: 4 cap: 6 elem [-1 9 10 -1] arr [1 2 3 4 -1 6 7 8 9 10] 
 	
+}
+// slice扩容机制
+func sliceExpand(){
+	s1 := []int{1,2}
+	fmt.Printf("slice1 len: %v cap: %v elems %v\n",len(s1),cap(s1),s1)
+	// slice1 len: 2 cap: 2 elems [1 2]
+	s1 = append(s1,3,4,5)
+	fmt.Printf("slice1 len: %v cap: %v elems %v\n",len(s1),cap(s1),s1)
+	// slice1 len: 5 cap: 6 elems [1 2 3 4 5]
+
+
 
 }
