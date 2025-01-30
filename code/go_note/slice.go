@@ -42,6 +42,7 @@ func sliceExpand(){
 	s1 = append(s1,3,4,5)
 	fmt.Printf("slice1 len: %v cap: %v elems %v\n",len(s1),cap(s1),s1)
 	// slice1 len: 5 cap: 6 elems [1 2 3 4 5]
+	
 
 
 
