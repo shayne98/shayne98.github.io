@@ -37,10 +37,12 @@ func sliceStruct(){
 // slice扩容机制
 func sliceExpand(){
 	s1 := []int{1,2}
-	fmt.Printf("slice1 len: %v cap: %v elems %v\n",len(s1),cap(s1),s1)
+	fmt.Printf("slice1 addr %p len: %v cap: %v elems %v\n",s1,len(s1),cap(s1),s1)
 	// slice1 len: 2 cap: 2 elems [1 2]
-	s1 = append(s1,3,4,5)
-	fmt.Printf("slice1 len: %v cap: %v elems %v\n",len(s1),cap(s1),s1)
+	for i:=3;i<=6;i++{
+		s1 = append(s1, i,i+1,i+2)
+		fmt.Printf("slice1 addr %p len: %v cap: %v elems %v\n",s1,len(s1),cap(s1),s1)
+	}
 	// slice1 len: 5 cap: 6 elems [1 2 3 4 5]
 	
 
