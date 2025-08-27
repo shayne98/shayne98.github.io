@@ -26,4 +26,19 @@ toc: true
 > * if you guys are stuck, Appa and i can g**ive you a lift**
 > * are you hoping some other kind of monster will come alone and **give you a ride** home
 > * because their honor didn't **hinge on** the Avatar's capture, mine does
-> * good night. sleep tight.
+> * g ood night. sleep tight.
+> * you have chores.
+> * until your fathers return from the war, they are **counting on you** to be the man of this tribe
+> * if you want to be a bender, you have to **let go of fear**
+> * what is that you said about the **bobby traps**
+> * quite **agile** for his old age
+
+# S1E2
+
+> * the traitor confesses. Warriors,  away from the enemy. The foreigner i**s bannished from** our village
+> * I am keeping my promise to dad, **protecting you from threats like him**
+> * **There goes my one chance of** becoming a waterbender
+> * No **potty breaks**
+> * you both found hime for a reason, now your destinies are intertwined with his
+> * **there is no way** that we are going to catch the warship with a canoe
+> * you just love **taking me out of comfort zone**
