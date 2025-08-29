@@ -39,6 +39,10 @@ toc: true
 > * I am keeping my promise to dad, **protecting you from threats like him**
 > * **There goes my one chance of** becoming a waterbender
 > * No **potty breaks**
-> * you both found hime for a reason, now your destinies are intertwined with his
-> * **there is no way** that we are going to catch the warship with a canoe
-> * you just love **taking me out of comfort zone**
+> * you both found him for a reason, now your destinies are intertwined with his
+> * **there is no way** that we are going to catch a warship with a canoe
+> * you just love **taking me out of my  comfort zone**
+> * Hey, **you mind taking** this to his quaters for me
+> * I bet i can take you both with my hands all tied behind my back
+> * the world has been waiting for the avatar to return and finally **put an end** to the war
+> * before i learn waterbending, we have  some serious business to **attend to**
