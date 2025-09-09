@@ -46,3 +46,23 @@ toc: true
 > * I bet i can take you both with my hands all tied behind my back
 > * the world has been waiting for the avatar to return and finally **put an end** to the war
 > * before i learn waterbending, we have  some serious business to **attend to**
+
+
+
+# S1E3
+
+> * when the word **gets out** that he is alive, and every firebender will be looking  for him, i do not want anyone **gets in the way**.
+> * you must **regale me with** thrilling details
+> * by years end, the earth kingdern will **be under our rule**
+> * two years at sea **have done little to temper your tongue**
+> * we **interrogated** the screw as you instructed, they confirmed that the prince zouke **had the Avator in custody**, but let him escape
+> * I am just a simple guy with simple needs
+> * but we can not **concern ourselves with what was, we must act on what is.**
+> * when you are ready, he will **reveal himself to you**
+> * so a 12-year old boy **bested you** and your firebenders, you're more pathetic than i thought
+> * **snap out of it !**
+> * my guards will **escort you back to** your ship
+> * once i deliver the avatar to my father, he will welcome me with honor, and **restore my rightful place** on throne
+> * **do not taint your victory**
+>
+> ---
