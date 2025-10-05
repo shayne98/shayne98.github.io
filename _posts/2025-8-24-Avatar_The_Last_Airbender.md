@@ -33,7 +33,7 @@ toc: true
 > * what is that you said about the **bobby traps**
 > * quite **agile** for his old age
 
-# S1E2
+## S1E2
 
 > * the traitor confesses. Warriors,  away from the enemy. The foreigner i**s bannished from** our village
 > * I am keeping my promise to dad, **protecting you from threats like him**
@@ -47,9 +47,7 @@ toc: true
 > * the world has been waiting for the avatar to return and finally **put an end** to the war
 > * before i learn waterbending, we have  some serious business to **attend to**
 
-
-
-# S1E3
+## S1E3
 
 > * when the word **gets out** that he is alive, and every firebender will be looking  for him, i do not want anyone **gets in the way**.
 > * you must **regale me with** thrilling details
@@ -66,3 +64,23 @@ toc: true
 > * **do not taint your victory**
 >
 > ---
+
+## S1E4
+
+> * **keeping a level head** is a sign of a great leader
+> * he is clearly **a master of evasive maneuvering**
+> * **stop bugging her**, you need to give girls space when they are doing with sewing
+> * time to **hit the road**
+> * where are the men who **ambushed us**
+> * there is no way a bunch of girls **took us down**
+> * Kyoshi has **stayed out of** the war so far, and we intend to keep it that way
+> * Throw the **imposter** to the unagi
+> * they **snuck up on** me
+> * sneak attacks do not count, but there is something i really like about this place
+> * let me show a thing or two
+> * they are giving us a **royal treatment**
+> * they are even cleaning up that statue **in my honor**
+> * we would not **stand a chance**
+> * maybe you are kind enough to **give us a demonstration**
+> * of course, i was **going easy on** us
+> * i could not **put my finger on** it
