@@ -76,11 +76,15 @@ toc: true
 > * Kyoshi has **stayed out of** the war so far, and we intend to keep it that way
 > * Throw the **imposter** to the unagi
 > * they **snuck up on** me
-> * sneak attacks do not count, but there is something i really like about this place
+> * sneak attacks do not count
 > * let me show a thing or two
 > * they are giving us a **royal treatment**
 > * they are even cleaning up that statue **in my honor**
 > * we would not **stand a chance**
 > * maybe you are kind enough to **give us a demonstration**
-> * of course, i was **going easy on** us
-> * i could not **put my finger on** it
+> * of course, i was **going easy on** you
+> * i could not **put my finger on** it，but there is something i really like about this place
+> * i mean, nomally i would **hold a grudge**
+> * **spit it out**! what do you want
+> * we normaly do not teach outsiders, **let alone** boys.
+> * i did **let all that attention to my head**
