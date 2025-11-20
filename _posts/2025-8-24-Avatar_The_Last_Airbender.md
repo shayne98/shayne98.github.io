@@ -81,10 +81,21 @@ toc: true
 > * they are giving us a **royal treatment**
 > * they are even cleaning up that statue **in my honor**
 > * we would not **stand a chance**
-> * maybe you are kind enough to **give us a demonstration**
+> * maybe you are kind enough to **give us a little demonstration**
 > * of course, i was **going easy on** you
 > * i could not **put my finger on** it，but there is something i really like about this place
 > * i mean, nomally i would **hold a grudge**
 > * **spit it out**! what do you want
 > * we normaly do not teach outsiders, **let alone** boys.
 > * i did **let all that attention to my head**
+
+## S1E5
+
+> * well, let us go ,**slowpokes**
+> * rotten cabbages, what kind of  **slum** do you think this is
+> * i **have got half of my mind** to bend you over my knee and paddle your backside
+> * settle down, **old timer**
+> * instead of seeing what they wanted you to see, **you gotta open you brain to the possibilities**
+> * then we are off to the North Pole
+> * it sounded  like fun at first ,but **now that** i am here, i am starting to have second thoughts
+> * these juveniles were arrested for **vandalism**, travelling with false pretenses and **malicious destruction** of cabbages
