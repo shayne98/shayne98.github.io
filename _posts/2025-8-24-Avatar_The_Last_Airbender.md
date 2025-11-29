@@ -96,6 +96,11 @@ toc: true
 > * i **have got half of my mind** to bend you over my knee and paddle your backside
 > * settle down, **old timer**
 > * instead of seeing what they wanted you to see, **you gotta open you brain to the possibilities**
-> * then we are off to the North Pole
+> * then we **are off to** the North Pole
 > * it sounded  like fun at first ,but **now that** i am here, i am starting to have second thoughts
 > * these juveniles were arrested for **vandalism**, travelling with false pretenses and **malicious destruction** of cabbages
+> * off with their head, one for  each head of  cabbage
+> * only the king can **pass down** the judgement
+> * **throw them a feast**
+> * the people of my city have gotten fat from too many feasts
+> * it is time to **hit the hay**
