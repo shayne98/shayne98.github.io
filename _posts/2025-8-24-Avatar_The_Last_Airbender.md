@@ -102,5 +102,10 @@ toc: true
 > * off with their head, one for  each head of  cabbage
 > * only the king can **pass down** the judgement
 > * **throw them a feast**
-> * the people of my city have gotten fat from too many feasts
+> * the people of my city **have gotten fat from** too many feasts
 > * it is time to **hit the hay**
+> * we are not **sticking around** to  find out
+> * if you think we gonna **fit through** it , you are crazier than the king
+> * i need you to find Appa and **bust us out of** here
+> * **no point** arguing about it now
+> * what do you think of my new **outfit**
